@@ -1,0 +1,36 @@
+Uri: http://clubcheats.lol/
+File Name: C:\Downloaded Web Sites\clubcheats.lol\index.htm
+Content Type: text/html
+
+Uri: http://clubcheats.lol/css/style.css
+File Name: C:\Downloaded Web Sites\clubcheats.lol\css\style.css
+Content Type: text/css
+
+Uri: http://clubcheats.lol/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,500&display=swap
+File Name: C:\Downloaded Web Sites\clubcheats.lol\css2
+Content Type: application/octet-stream
+
+Uri: http://clubcheats.lol/ea/c5/9e/eac59ed99c1daddb500cd7c96b34fd3b.js
+File Name: C:\Downloaded Web Sites\clubcheats.lol\ea\c5\9e\eac59ed99c1daddb500cd7c96b34fd3b.js
+Content Type: application/javascript
+
+Uri: http://clubcheats.lol/img/bg.png
+File Name: C:\Downloaded Web Sites\clubcheats.lol\img\bg.png
+Content Type: image/png
+
+Uri: http://clubcheats.lol/img/logo.png
+File Name: C:\Downloaded Web Sites\clubcheats.lol\img\logo.png
+Content Type: image/png
+
+Uri: http://clubcheats.lol/img/menu.png
+File Name: C:\Downloaded Web Sites\clubcheats.lol\img\menu.png
+Content Type: image/png
+
+Uri: http://clubcheats.lol/index.html
+File Name: C:\Downloaded Web Sites\clubcheats.lol\index.html
+Content Type: text/html
+
+Uri: http://clubcheats.lol/key.html
+File Name: C:\Downloaded Web Sites\clubcheats.lol\key.html
+Content Type: text/html
+
